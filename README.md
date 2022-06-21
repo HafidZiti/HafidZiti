@@ -8,7 +8,7 @@
 - 📫 Say Hi via [hello@hafidziti.dev](mailto:hello@hafidziti.dev)
 - ⚡ Fun fact: I try to avoid building backends and use SaaS instead.
 
-### Languages and Tools:
+### Languages and Tools
 
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
