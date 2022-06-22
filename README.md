@@ -27,5 +27,5 @@
 ### Get in touch
 
 <code><a href="https://hafidziti.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a></code>
-<code><a href="https://www.linkedin.com/in/hafid-ziti-1514b795/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a></code>
+<code><a href="https://www.linkedin.com/in/hafid-ziti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a></code>
 <code><a href="https://twitter.com/hafidziti"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a></code>
