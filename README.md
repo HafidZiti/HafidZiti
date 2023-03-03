@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on web developement
-- 🌱 I’m currently learning web developement
+- 🌱 I’m currently learning Solid.js
 - 👯 I’m looking to collaborate with other web developers
 - 💬 Ask me about anything at all!
 - 📫 Say Hi via [hello@hafidziti.dev](mailto:hello@hafidziti.dev)
